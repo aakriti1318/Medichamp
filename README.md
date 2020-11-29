@@ -1,6 +1,6 @@
 # Medichamp
 ##### A web application for preliminary diagnosis of various diseases
-![medlife-cover](https://user-images.githubusercontent.com/56245613/100550633-5315e780-32a1-11eb-920d-6a4a6f4ab256.png)
+![medilife](https://user-images.githubusercontent.com/56245613/100550729-d8999780-32a1-11eb-93d2-5ede67b7d8f5.jpg)
 
 
 - In the current world scenario where technology has taken every aspect of human life , healthcare still remains to experience this transformation . Several million people enter keywords every day in search engines such as Google looking for solutions to their different healthcare needs and are often disappointed by what they find . We are often told not to ‘Google’ our symptoms because without the experience of a real doctor such attempts can lead to false diagnosis which can cause further complications . The challenge is to close this gap between human expertise and technological limitations by using existing technologies.
